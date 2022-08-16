@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hi, I am Data / Business Analyst, proficient in Python, Tableau, MySQL, Data Visualization and Data Modelling. 
-/n Before learning data analytics I did a Bachelor of Business and Administration at emlyon buisness school.
+Before learning data analytics I did a Bachelor of Business and Administration at emlyon buisness school.
 
 I grew up in Madagascar and did my studies in France & Canada. I have developped a good capacity to understand and adapt myself to foreign culture and through my experiences I acquired various skills such as market analysis, project & team management, data analytics.
 
